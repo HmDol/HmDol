@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&text=HmDol&fontSize=40&fontColor=ffffff&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&text=HmDol&fontSize=40&fontColor=ffffff&height=18)
+
+<div align = center>
+필요한 사람이 되기위한 개발자 김힘찬 입니다
+
+영남대학교 4학년 재학중<br>
+클라우드 개발자 양성 교육
+</div>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooJJam%2Fhit-counter&count_bg=%23000000&title_bg=%2307F40E&icon=&icon_color=%236D1C1C&title=Views&edge_flat=true"/></a>
 
