@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&text=HmDol&fontSize=40&fontColor=ffffff&height=180)
 
 
-
-
 <div align = center>
 필요한 사람이 되기위한 개발자 김힘찬 입니다<br>
 
