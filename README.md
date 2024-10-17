@@ -6,8 +6,8 @@
 <div align = center>
 "필요한 사람"이 되기위한 개발자 김힘찬 입니다<br>
 
-영남대학교 4학년 재학중<br>
-Kosta 클라우드 개발자 양성 교육 수료
+영남대학교 컴퓨터공학과 졸업<br>
+Kosta MSP 전문가 양성 교육 수료
 </div>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooJJam%2Fhit-counter&count_bg=%23000000&title_bg=%2307F40E&icon=&icon_color=%236D1C1C&title=Views&edge_flat=true"/></a>
