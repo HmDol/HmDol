@@ -10,8 +10,6 @@
 Kosta MSP 전문가 양성 교육 수료
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooJJam%2Fhit-counter&count_bg=%23000000&title_bg=%2307F40E&icon=&icon_color=%236D1C1C&title=Views&edge_flat=true"/></a>
-
 <div align=center><h2>📚Stack</h2></div>
 <div align=center>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=black">
@@ -24,17 +22,17 @@ Kosta MSP 전문가 양성 교육 수료
  <br>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-000000?style=square&logo=EXPRESS&logoColor=white">
- <br>
+ 
  <br>
  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=square&logo=MYSQL&logoColor=black">
  <img src="https://img.shields.io/badge/GIT-F05032?style=square=GIT&logoColor=black">
  <br>
  </div>
- <!--
+ <br/>
  <div align = center> 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vtwin321)](https://solved.ac/vtwin321/)
- </div>-->
+ </div>
 <!--
 **WooJJam/WooJJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
